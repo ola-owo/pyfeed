@@ -1,0 +1,3 @@
+http://feeds.feedburner.com/ChemicalForumsBlog?format=xml
+http://yogpod.libsyn.com/rss
+http://feed.torrentfreak.com/torrentfreak

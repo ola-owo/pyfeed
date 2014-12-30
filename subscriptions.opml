@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Ola subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline title="Reddit" text="Reddit">
+            <outline text="/r/freebies" title="/r/freebies" type="rss"
+                xmlUrl="http://www.reddit.com/r/freebies/.rss" htmlUrl="http://www.reddit.com/r/freebies/"/>
+            <outline text="/r/KindleFreebies" title="/r/KindleFreebies"
+                type="rss"
+                xmlUrl="http://www.reddit.com/r/kindlefreebies/.rss" htmlUrl="http://www.reddit.com/r/KindleFreebies/"/>
+        </outline>
+        <outline text="Last.fm free recommended downloads for ooowo's"
+            title="Last.fm free recommended downloads for ooowo's"
+            type="rss"
+            xmlUrl="http://ws.audioscrobbler.com/2.0/user/ooowo/podcast.rss" htmlUrl="http://www.last.fm/user/ooowo"/>
+        <outline text="Our Daily Bread" title="Our Daily Bread"
+            type="rss" xmlUrl="http://odb.org/feed/" htmlUrl="http://odb.org"/>
+        <outline text="The Official SAT Question of the Day"
+            title="The Official SAT Question of the Day" type="rss"
+            xmlUrl="http://sat.collegeboard.com/practice/sat-question-of-the-day-rss" htmlUrl="http://sat.collegeboard.org/practice/sat-question-of-the-day?src=R"/>
+        <outline title="Swagbucks" text="Swagbucks">
+            <outline text="Swagcode Spoiler" title="Swagcode Spoiler"
+                type="rss" xmlUrl="http://sc-s.com/feed/" htmlUrl="http://sc-s.com"/>
+        </outline>
+        <outline title="Rare" text="Rare">
+            <outline text="Homestar Runner" title="Homestar Runner"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/HomestarRunner" htmlUrl="http://www.homestarrunner.com"/>
+            <outline text="The YoGPoD" title="The YoGPoD" type="rss"
+                xmlUrl="http://yogpod.libsyn.com/rss" htmlUrl="http://yogpod.libsyn.com"/>
+        </outline>
+        <outline title="Comics" text="Comics">
+            <outline text="Buttersafe - Updated Tuesdays and Thursdays"
+                title="Buttersafe - Updated Tuesdays and Thursdays"
+                type="rss" xmlUrl="http://buttersafe.com/feed/" htmlUrl="http://buttersafe.com"/>
+            <outline text="Ctrl+Alt+Del" title="Ctrl+Alt+Del" type="rss"
+                xmlUrl="http://www.cad-comic.com/rss/rss.xml" htmlUrl="http://www.cad-comic.com/"/>
+            <outline text="Explosm.net" title="Explosm.net" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Explosm" htmlUrl="http://www.explosm.net"/>
+            <outline text="Fake Science" title="Fake Science" type="rss"
+                xmlUrl="http://fakescience.tumblr.com/rss" htmlUrl="http://fakescience.org/"/>
+            <outline text="FoxTrot.com" title="FoxTrot.com" type="rss"
+                xmlUrl="http://www.foxtrot.com/feed/" htmlUrl="http://www.foxtrot.com"/>
+            <outline text="LOL_Comics RSS Feed"
+                title="LOL_Comics RSS Feed" type="rss"
+                xmlUrl="http://www.prguitarman.com/rss.php" htmlUrl="http://www.prguitarman.com/"/>
+            <outline text="Nedroid Picture Diary 2"
+                title="Nedroid Picture Diary 2" type="rss"
+                xmlUrl="http://nedroid.com/feed/" htmlUrl="http://nedroid.com"/>
+            <outline
+                text="Saturday Morning Breakfast Cereal (updated daily)"
+                title="Saturday Morning Breakfast Cereal (updated daily)"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/smbc-comics/PvLb" htmlUrl="http://www.smbc-comics.com"/>
+            <outline text="The Oatmeal - Comics, Quizzes, &amp; Stories"
+                title="The Oatmeal - Comics, Quizzes, &amp; Stories"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
+            <outline text="TONE DEAF" title="TONE DEAF" type="rss"
+                xmlUrl="http://www.tonedeafcomics.com/feed/" htmlUrl="http://www.tonedeafcomics.com"/>
+            <outline text="What If?" title="What If?" type="rss"
+                xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com"/>
+            <outline text="XKCD" title="XKCD" type="rss"
+                xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+        </outline>
+        <outline title="News" text="News">
+            <outline text="Linux Line" title="Linux Line" type="rss"
+                xmlUrl="http://feeds.pcworld.com/pcworld/businesscenter/linuxline/" htmlUrl="http://www.pcworld.com"/>
+            <outline text="PCWorld How-To's and Tips"
+                title="PCWorld How-To's and Tips" type="rss"
+                xmlUrl="http://feeds.pcworld.com/pcworld/update/howto" htmlUrl="http://www.pcworld.com"/>
+            <outline text="Threat Level" title="Threat Level" type="rss"
+                xmlUrl="http://www.wired.com/threatlevel/feed/" htmlUrl="http://www.wired.com/threatlevel"/>
+            <outline text="TorrentFreak" title="TorrentFreak" type="rss"
+                xmlUrl="http://feed.torrentfreak.com/Torrentfreak/" htmlUrl="http://torrentfreak.com"/>
+        </outline>
+    </body>
+</opml>

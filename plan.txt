@@ -1,0 +1,30 @@
+1. Show Websites
+2. Show Articles from indiviual websites
+3. Show article descriptions and URLs
+
+Example:
+
+Your Websites:
+YogPod [3]
+Explosm.net [2]
+Threat Level [1]
+
+Go Back [0]
+
+/user selects #3/
+
+Current Articles from YogPod:
+Halloween Spacktacular [3]
+Christmas Special [2]
+Toaster Mic [1]
+
+Go Back [0]
+/user selects #3/
+
+Details of Toaster Mic:
+Go Back [0]
+
+Description: (toaster mic description)
+Url: yogpod.libsyn.com/... [1]
+
+(selecting #1 would open the url in an external application)
